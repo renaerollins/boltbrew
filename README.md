@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## React and Tailwind Css website
+## React and Tailwind CSS website
 
 In the project directory, you can run:
 
