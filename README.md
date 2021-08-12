@@ -1,4 +1,5 @@
-![boltbrew](https://user-images.githubusercontent.com/12767962/129175579-c1f2fb68-af00-4791-885a-7053191924f0.png)
+![boltbrew](https://user-images.githubusercontent.com/12767962/129175719-f8fb0959-345e-4e0f-aa6a-ce0e2502b3b2.png)
+
 
 # Bolt Brew
 
